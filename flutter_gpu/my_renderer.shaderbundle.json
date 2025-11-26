@@ -1,0 +1,10 @@
+{
+    "BoxVertex": {
+        "type": "vertex",
+        "file": "shaders/box.vert"
+    },
+    "BoxFragment": {
+        "type": "fragment",
+        "file": "shaders/box.frag"
+    }
+}
